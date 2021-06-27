@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rambabuwhy
-- 👀 I’m interested in data structure , algorithms, system design and  distributed systems
-- 🌱 I’m currently learning go programing and cloud
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in data structures, algorithms, system design and  distributed systems
+- 🌱 I’m currently learning go programing, cloud and distributed systems
+- 💞️ I’m looking to collaborate on coding challenges
 - 📫 How to reach me rambabuwhy@gmail.com
 
 <!---
