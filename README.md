@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rambabuwhy
+- 👋 Hi, I’m @rambabuwhy  (Rambabu Yerajana)
 - 👀 I’m interested in data structures, algorithms, system design and  distributed systems
 - 🌱 I’m currently learning Go programming, cloud and distributed systems
 - 💞️ I’m looking to collaborate on coding challenges
