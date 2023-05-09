@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rambabuwhy  (Rambabu Yerajana)
 - 👀 I’m interested in data structures, algorithms, system design and  distributed systems
-- 🌱 I’m currently working on cloud and distributed systems
+- 🌱 700+ optimized solutions @ my repo
 - 💞️ I’m looking to collaborate on coding challenges, C++, Go, Python
 - 📫 How to reach me https://www.linkedin.com/in/rambabuyerajana/
 
