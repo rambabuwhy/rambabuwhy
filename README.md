@@ -6,7 +6,7 @@
 
 <h1> www.bytelearned.com : Your Journey to Computer Mastery<br></h1>
 
-![Model](https://github.com/rambabuwhy/rambabuwhy/blob/main/Chiaki%20Sato%20(1).png)
+![Model](https://github.com/rambabuwhy/rambabuwhy/blob/main/Innovation%20Technology.png)
 <br></br>
 <!---
 rambabuwhy/rambabuwhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
