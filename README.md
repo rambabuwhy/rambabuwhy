@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on coding challenges, C++, Go, Python
 - 📫 How to reach me https://www.linkedin.com/in/rambabuyerajana/
 
-<h1>Master the Art of Problem Solving with C++ <br>
-by Rambabu Yerajana</h1>
+<h1> www.bytelearned.com : Your Journey to Computer Mastery<br></h1>
 
-![Model](https://github.com/rambabuwhy/cpp-problems/blob/master/code_ry/master%20the%20art%20of%20problem%20solving.png)
+![Model](https://github.com/rambabuwhy/rambabuwhy/blob/main/Chiaki%20Sato%20(1).png)
 <br></br>
 <!---
 rambabuwhy/rambabuwhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
