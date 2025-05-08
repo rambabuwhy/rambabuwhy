@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding challenges, C++, Go, Python
 - 📫 How to reach me https://www.linkedin.com/in/rambabuyerajana/
 
-<h1> www.ryerajana.carrd.co : Your Journey to Computer Mastery<br></h1>
+<h1> [www.ryerajana.carrd.co](https://ryerajana.carrd.co/) : Your Journey to Computer Mastery<br></h1>
 
 ![Model](https://github.com/rambabuwhy/rambabuwhy/blob/main/Innovation%20Technology.png)
 <br></br>
