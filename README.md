@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rambabuwhy  (Rambabu Yerajana)
+- 👋 Hi, I’m @rambabuwhy  (Rambabu Yerajana), M. Tech in Computer Science from IIT Roorkee with 18+ years of experience as a Solutions Architect building cloud-native, distributed systems across telecom, security, and AI domains.
 - 👀 I’m interested in data structures, algorithms, system design and  distributed systems
-- 🌱 700+ optimized solutions @ my repo
+- 🌱 1000+ optimized solutions @ my repo
 - 💞️ I’m looking to collaborate on coding challenges, C++, Go, Python
 - 📫 How to reach me https://www.linkedin.com/in/rambabuyerajana/
 
