@@ -3,7 +3,7 @@
 - 🌱 1000+ optimized solutions @ my repo and 50+ AI/ML Repos
 - 💞️ I’m looking to collaborate on coding challenges, C++, Go, Python
 - 📫 How to reach me https://www.linkedin.com/in/rambabuyerajana/
-- M Tech from IIT Roorkee , BS from IIT Madras, EGM from IIM Jammu
+- 📚 M Tech from IIT Roorkee , BS from IIT Madras, EGM from IIM Jammu
 
 <h1> (https://ryerajana.carrd.co/) : Your Journey to Computer Mastery<br></h1>
 
